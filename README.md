@@ -75,7 +75,7 @@ For the complete list of contributions please refer to my CV.
 
 ## Links
 
-# Past and present collaborators
+### Past and present collaborators
 - Hiromitsu Takeuchi, Osaka City University (Japan)
 - Giorgio Krstulovic, Observatoire de la Cote d’Azur (France)
 - Hayder Salman, University of East Anglia (United Kingdom)
@@ -85,7 +85,7 @@ For the complete list of contributions please refer to my CV.
 - Sergey Nazarenko, Institut de Physique de Nice (France)
 - Miguel Onorato, Università degli Studi di Torino (Italy)
 
-# Other links
+### Other links
 Special Interest Group on Wave Turbulence funded by the EPSRC UK Fluids Network
 
 
