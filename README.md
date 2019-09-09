@@ -1,3 +1,19 @@
+## Contact details
+
+Dr Davide Proment
+Senior Lecturer in Applied Mathematics
+
+School of Mathematics
+University of East Anglia
+NR4 7TJ Norwich
+United Kingdom
+
+tel: +44 1603 591642
+email: davideproment[at]gmail.com
+skype: davide.proment
+
+
+
 ## Publications
 
 ### Submitted manuscripts under consideration
@@ -28,6 +44,51 @@
 3. Warm turbulence in the Boltzmann equation, Davide Proment, Sergey Nazarenko, Pietro Asinari, and Miguel Onorato, Europhysics Letters, Volume 96, Number 2, 24004 (2011)
 2. Freak waves in crossing seas, Miguel Onorato, Davide Proment, and Alessandro Toffoli, The European Physical Journal - Special Topics, Volume 185, (2010)
 1. Quantum turbulence cascades in the Gross–Pitaevskii model, Davide Proment, Sergey Nazarenko, and Miguel Onorato, Physical Review A, Volume 80, Issue 5, 051603(R) (2009)
+
+
+## Contributions
+
+### Talks given during the last year
+- Flying in a superfluid: starting flow past an airfoil, Vortex dynamics, turbulence and related phenomena in quantum fluids, International Institute of Physics, Natal, Brazil (July 5, 2019)
+- Quantum turbulence cascades in the Gross–Pitaesvkii model, Non perturbative solutions in field theory and their applications, Università del Salento, Italy (June 10, 2019)
+- Direct energy cascade in the two-dimensional Gross–Pitaesvkii model, day seminar, University of Kent, UK (March 19, 2019)
+- Flying in a superfluid, day seminar, Università di Roma Tor Vergata, Roma, Italy (March 4, 2019)
+- Direct energy cascade in the two-dimensional Gross–Pitaesvkii model, Wave Interactions And Turbulence, Ecole Polytechnique, Palaiseau, France (Dec. 18, 2018)
+- Clustering and phase transitions in a 2D quantum fluid with impurities, day seminar, LENS, Florence, Italy (Sept. 26, 2018)
+- Quantum turbulence cascades in the Gross–Pitaevskii model, Quantum Fluids and Solids 2018 (QFS2018), Tokyo, Japan (July 30, 2018)
+- Filament dynamics and sound emission during vortex reconnections in superfluids, Chasing tornadoes: vorticity above, below and in the Lab, Newcastle University, UK (April 10, 2018)
+- Wave turbulence in Bose–Einstein condensates, SIG Meeting: Wave Turbulence In Nonlinear Optics, BECs, And Related Areas, Aston University, UK (Dec. 11, 2017)
+- Universal and nonuniversal aspects of vortex reconnections in superfluids, Universal aspects of quantum turbulence, Nice, France (Oct. 19, 2017)
+- A route to thermalisation in the -Fermi–Pasta– Ulam system, Irreversibility and Turbulence, Les Treilles, France (Sept. 17, 2017)
+
+### Posters presented during the last year
+- Vortex reconnections in superfluids: universal properties and sound emission, Quantum Fluids and Solids 2018 (QFS2018), Tokyo, Japan (July 30, 2018)
+- Universal and nonuniversal aspects of vortex reconnections in superfluids, ULT 2017: Frontiers of Low Temperature Physics, Heidelberg University, Germany (Aug. 17, 2017)
+
+### Lectures given during the last year
+- Vortex dynamics and sound in the Gross–Pitaevskii model, IIP scientific programme Vortex dynamics, turbulence and related phenomena in quantum fluids, International Institute of Physics, Natal, Brazil (June 24, 2019)
+- Turbulence in the Nonlinear Schroedinger Model (5 lectures), CISM summer school on Wave Turbulence and Extreme Events, CISM, Udine, Italy (June 18, 2018)
+
+For the complete list of contributions please refer to my CV.
+
+
+
+## Links
+
+# Past and present collaborators
+- Hiromitsu Takeuchi, Osaka City University (Japan)
+- Giorgio Krstulovic, Observatoire de la Cote d’Azur (France)
+- Hayder Salman, University of East Anglia (United Kingdom)
+- William Irvine, The University of Chicago (United States of America)
+- Carlo Barenghi, Newcastle University (United Kingdom)
+- Alessandro Toffoli, The University of Melbourne (Australia)
+- Sergey Nazarenko, Institut de Physique de Nice (France)
+- Miguel Onorato, Università degli Studi di Torino (Italy)
+
+# Other links
+Special Interest Group on Wave Turbulence funded by the EPSRC UK Fluids Network
+
+
 
 ## Welcome to GitHub Pages
 
