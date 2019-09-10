@@ -4,7 +4,7 @@
 - Flying in a superfluid: starting flow past an airfoil, Seth Musser, Davide Proment, Miguel Onorato, William T.M. Irvine, arXiv:1904.04908 (2019)
 
 ## Publications in peer-reviewed journals
-1-. Clustering and phase transitions in a 2D superfluid with immiscible active impurities, Umberto Giuriato, Giorgio Krstulovic, and Davide Proment, Journal of Physics A: Mathematical and Theoretical (2019)
+[24] Clustering and phase transitions in a 2D superfluid with immiscible active impurities, Umberto Giuriato, Giorgio Krstulovic, and Davide Proment, Journal of Physics A: Mathematical and Theoretical (2019)
 0. Wind generated rogue waves in an annular wave flume, A. Toffoli, D. Proment, H. Salman, J. Monbaliu, F. Frascoli, M. Dafilis, E. Stramignoni, R. Forza, M. Manfrin, M. Onorato, Physical Review Letters, Volume 118, Issue 14, 144503 (2017)
 0. Universal and nonuniversal aspects of vortex reconnections in superfluids, Alberto Villois, Davide Proment, and Giorgio Krstulovic, Physical Review Fluids, Volume 2, Issue 4, 044701 (2017)
 21. A Vortex Filament Tracking Method for the Gross–Pitaevskii Model of a Superfluid, Alberto Villois, Giorgio Krstulovic, Davide Proment, Hayder Salman, Journal of Physics A: Mathematical and Theoretical, Volume 49, Issue 41, 415502 (2016)
