@@ -13,6 +13,6 @@
 
 ## Other links
 - [Wave Turbulence Special Interest Group](https://www.jasonlaurie.com/sig/) funded by the [UK Fluids Network](https://fluids.ac.uk)
-- [Waves, Coherent Structures, and Turbulence (WCST2019)] workshop held at the University of East Anglia, United Kingdom
+- [Waves, Coherent Structures, and Turbulence (WCST2019)](https://davideproment.github.io/WCST2019/) workshop held at the University of East Anglia, United Kingdom
 
 
