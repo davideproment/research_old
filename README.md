@@ -1,3 +1,8 @@
+{% include_relative publications.md %}
+
+-----
+
+
 ## Contact details
 
 Dr Davide Proment
