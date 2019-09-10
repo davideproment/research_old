@@ -50,4 +50,6 @@
 
 [2] Freak waves in crossing seas, Miguel Onorato, Davide Proment, and Alessandro Toffoli, The European Physical Journal - Special Topics, Volume 185, (2010)
 
-[1] Quantum turbulence cascades in the Gross–Pitaevskii model, Davide Proment, Sergey Nazarenko, and Miguel Onorato, Physical Review A, Volume 80, Issue 5, 051603(R) (2009)
+1. Quantum turbulence cascades in the Gross–Pitaevskii model, Davide Proment, Sergey Nazarenko, and Miguel Onorato, Physical Review A, Volume 80, Issue 5, 051603(R) (2009)
+2. Triggering rogue waves in opposing currents, Miguel Onorato, Davide Proment, and Alessandro Toffoli, Physical Review Letters, Volume 107, Issue 18, 184502 (2011)
+{: reversed="reversed"}
