@@ -1,5 +1,22 @@
 theme: jekyll-theme-minimal
 
-
-title: #Davide Proment's research webpage
+title: DP's research
 description: Davide Proment's research webpage
+tags: [Davide Proment, Bose-Einstein condensate, superfluid, nonlinear physics, turbulence, University of East Anglia, UEA]
+
+url: https://davideproment.github.io/research/
+
+author: 
+  name: Davide Proment
+
+#logo: logo_Blue.png
+#google_analytics: UA-145404605-1
+
+plugins:
+  - jekyll-relative-links
+  - jekyll-seo-tag
+
+relative_links:
+  enabled: false
+  collections: false
+
