@@ -13,7 +13,10 @@ For the complete list of contributions please refer to my [CV](./static/DavidePr
 - Clustering and phase transitions in a 2D quantum fluid with impurities, _day seminar_, LENS, Florence, Italy (Sept. 26, 2018)
 - Quantum turbulence cascades in the Gross–Pitaevskii model, )Quantum Fluids and Solids 2018 (QFS2018)_, Tokyo, Japan (July 30, 2018)
 - Filament dynamics and sound emission during vortex reconnections in superfluids, _Chasing tornadoes: vorticity above, below and in the Lab_, Newcastle University, UK (April 10, 2018)
-<details><summary>more</summary>
+<details>
+<summary>
+- bla bla
+</summary>
 - bla bla bla
 - bla bla bla
 - bla bla bla
