@@ -4,14 +4,14 @@
 Dr Davide Proment <br />
 Senior Lecturer in Applied Mathematics
 
-School of Mathematics/
+School of Mathematics <br />
 University of East Anglia
 
-NR4 7TJ Norwich\
+NR4 7TJ Norwich <br />
 United Kingdom
 
-tel: +44 1603 591642\
-email: davideproment[at]gmail.com\
+tel: +44 1603 591642 <br />
+email: davideproment[at]gmail.com <br />
 skype: davide.proment
 
 
