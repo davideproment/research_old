@@ -1,5 +1,5 @@
 
-## Contact details
+# Contact details
 
 Dr Davide Proment <br />
 Senior Lecturer in Applied Mathematics
