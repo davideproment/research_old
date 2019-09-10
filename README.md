@@ -1,10 +1,10 @@
 
 ## Contact details
 
-Dr Davide Proment\
+Dr Davide Proment <br />
 Senior Lecturer in Applied Mathematics
 
-School of Mathematics\
+School of Mathematics/
 University of East Anglia
 
 NR4 7TJ Norwich\
