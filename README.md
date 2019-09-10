@@ -1,4 +1,10 @@
+-----
+
 {% include_relative publications.md %}
+
+-----
+
+{% include_relative contributions.md %}
 
 -----
 
