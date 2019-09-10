@@ -5,13 +5,20 @@
 
 ## Publications in peer-reviewed journals
 [24] Clustering and phase transitions in a 2D superfluid with immiscible active impurities, Umberto Giuriato, Giorgio Krstulovic, and Davide Proment, Journal of Physics A: Mathematical and Theoretical (2019)
-0. Wind generated rogue waves in an annular wave flume, A. Toffoli, D. Proment, H. Salman, J. Monbaliu, F. Frascoli, M. Dafilis, E. Stramignoni, R. Forza, M. Manfrin, M. Onorato, Physical Review Letters, Volume 118, Issue 14, 144503 (2017)
-0. Universal and nonuniversal aspects of vortex reconnections in superfluids, Alberto Villois, Davide Proment, and Giorgio Krstulovic, Physical Review Fluids, Volume 2, Issue 4, 044701 (2017)
-21. A Vortex Filament Tracking Method for the Gross–Pitaevskii Model of a Superfluid, Alberto Villois, Giorgio Krstulovic, Davide Proment, Hayder Salman, Journal of Physics A: Mathematical and Theoretical, Volume 49, Issue 41, 415502 (2016)
-20. On the origin of heavy-tail statistics in equations of the Nonlinear Schrödinger type, Miguel Onorato, Davide Proment, Gennady El, Stephane Randoux, Pierre Suret, Physics Letters A, Volume 380, Issue 39, 3173–3177 (2016)
-19. Evolution of a superfluid vortex filament tangle driven by the Gross–Pitaevskii equation, Alberto Villois, Davide Proment, and Giorgio Krstulovic, Physical Review E, Volume 93, Issue 6, 061103(R) (2016)
-18. Scattering of Line-Ring Vortices in a Superfluid, Alberto Villois, Hayder Salman, Davide Proment, Journal of Low Temperature Physics, Volume 180, Issue 1, pages 68-81 (2015)
-17. Route to thermalization in the alpha-Fermi–Pasta–Ulam system, Miguel Onorato, Lara Vozella, Davide Proment, and Yuri V. Lvov, Proceedings of the National Academy of Sciences, Volume 112, Issue 14, pages 4208-4213 (2015)
+
+[23] Wind generated rogue waves in an annular wave flume, A. Toffoli, D. Proment, H. Salman, J. Monbaliu, F. Frascoli, M. Dafilis, E. Stramignoni, R. Forza, M. Manfrin, M. Onorato, Physical Review Letters, Volume 118, Issue 14, 144503 (2017)
+
+[22] Universal and nonuniversal aspects of vortex reconnections in superfluids, Alberto Villois, Davide Proment, and Giorgio Krstulovic, Physical Review Fluids, Volume 2, Issue 4, 044701 (2017)
+
+[21] A Vortex Filament Tracking Method for the Gross–Pitaevskii Model of a Superfluid, Alberto Villois, Giorgio Krstulovic, Davide Proment, Hayder Salman, Journal of Physics A: Mathematical and Theoretical, Volume 49, Issue 41, 415502 (2016)
+
+[20] On the origin of heavy-tail statistics in equations of the Nonlinear Schrödinger type, Miguel Onorato, Davide Proment, Gennady El, Stephane Randoux, Pierre Suret, Physics Letters A, Volume 380, Issue 39, 3173–3177 (2016)
+
+[19] Evolution of a superfluid vortex filament tangle driven by the Gross–Pitaevskii equation, Alberto Villois, Davide Proment, and Giorgio Krstulovic, Physical Review E, Volume 93, Issue 6, 061103(R) (2016)
+
+[18] Scattering of Line-Ring Vortices in a Superfluid, Alberto Villois, Hayder Salman, Davide Proment, Journal of Low Temperature Physics, Volume 180, Issue 1, pages 68-81 (2015)
+
+[17] Route to thermalization in the alpha-Fermi–Pasta–Ulam system, Miguel Onorato, Lara Vozella, Davide Proment, and Yuri V. Lvov, Proceedings of the National Academy of Sciences, Volume 112, Issue 14, pages 4208-4213 (2015)
 16. Helicity conservation by flow across scales in reconnecting vortex links and knots, Martin W. Scheeler, Dustin Kleckner, Davide Proment, Gordon L. Kindlmann, William T.M. Irvine, Proceedings of the National Academy of Sciences, Volume 111, Issue 43, pages 15350-15355 (2014)
 15. Bose-Einstein condensation and Berezinskii–Kosterlitz–Thouless transition in 2D Nonlinear Schrödinger model, Sergey Nazarenko, Miguel Onorato, and Davide Proment, Physical Review A, Volume 90, Issue 1, 013624 (2014)
 14. Torus quantum vortex knots in the Gross–Pitaevskii model for Bose–Einstein condensates, Davide Proment, Miguel Onorato, and Carlo F. Barenghi, Journal of Physics: Conference Series, Volume 544, Issue 1, 012022 (2014)
